@@ -49,7 +49,8 @@ The redesigned Disney landing page is more engaging and user-friendly, aiming to
 ![iPhone 11 Pro 5](https://github.com/user-attachments/assets/c8a8cfef-9fd5-4f56-89fc-6010ac3d6166)
 ![iPhone 11 Pro 6](https://github.com/user-attachments/assets/b96d59a4-8ebc-47a5-85bc-970af7a492c3)
 ![iPhone 11 Pro 9](https://github.com/user-attachments/assets/dda79006-4758-4c80-a990-6c855dcaad42)
-![3](https://github.com/user-attachments/assets/742b6cfd-ce8f-456e-ad1e-f4cf4cb0452a)
+
+![3](https://github.com/user-attachments/assets/c3f0da4b-c488-46bb-9e85-4a0a64af643a)
 
 ---
 
